@@ -6,3 +6,16 @@ linux/README.md
 ciberseguranca/README.md
 laboratorios/README.md
 certificacoes/README.md
+cybersecurity-learning-journal
+│── fundamentos-ti
+│   └── README.md
+├── redes
+│   └── README.md
+├── linux
+│   └── README.md
+├── ciberseguranca
+│   └── README.md
+├── laboratorios
+│   └── README.md
+└── certificacoes
+    └── README.md
